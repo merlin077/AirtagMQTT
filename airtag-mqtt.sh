@@ -16,8 +16,8 @@
 
 hostname='172.16.10.12'
 mqtt_port=''
-mqtt_user='mqtt'
-mqtt_pass='mqtt'
+mqtt_user='user'
+mqtt_pass='pass'
 mqtt_topic='airtag-mqtt/'
 ha_autodiscovery='1'
 csv_enabled='1'
